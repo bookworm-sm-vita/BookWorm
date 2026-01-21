@@ -1,7 +1,8 @@
-package com.example.demo.service;
+package com.example.service;
 
-import com.example.demo.repository.ProductRepository;
 import com.example.model.Product;
+import com.example.repository.ProductRepository;
+
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
 
